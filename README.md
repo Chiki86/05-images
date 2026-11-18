@@ -111,9 +111,13 @@ Comparez lettre par lettre :
 ## Questions de compréhension
 
 1. À quoi sert l'attribut `alt` ? Citez deux situations où il est utilisé.
+alt (texte alternatif) est une description textuelle d’une image
 2. Pourquoi indiquer `width` et `height` alors que l'image s'affiche très bien sans ?
+pour la taille de l'image
 3. Quand doit-on écrire `alt=""` (vide) ?
+On écrit un alt vide quand l’image est purement décorative
 4. Quelle est la différence entre `<figcaption>` et `alt` ?
+L’attribut alt est un texte alternatif invisible qui décrit l’image pour ceux qui ne la voient pas ; <figcaption> est une légende visible par tous
 
 ## Lien avec le brief PlantEvo
 
